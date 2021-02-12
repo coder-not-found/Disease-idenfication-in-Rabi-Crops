@@ -14,4 +14,4 @@ Models Worked on: \
 Disease Identification In Rabi Crop Using Deep Learning \
 International Journal of Engineering Applied Sciences and Technology, 2020 \
 Vol. 5, Issue 6, ISSN No. 2455-2143, Pages 249-256 \
-http://ijeast.com/papers/249-256,Tesma506,IJEAST.pdf \ 
+http://ijeast.com/papers/249-256,Tesma506,IJEAST.pdf 
