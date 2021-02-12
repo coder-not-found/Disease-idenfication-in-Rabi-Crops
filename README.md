@@ -8,7 +8,7 @@ Models Worked on: \
 •	ResNet \
 •	DenseNet \
 •	AlexNet \
-•	Inception \ 
+•	Inception
 
 Disease Identification In Rabi Crop Using Deep Learning \
 International Journal of Engineering Applied Sciences and Technology, 2020 \
